@@ -12,6 +12,19 @@
         margin: 5px;
         text-decoration: none;
     }
+    .menu_link:hover {
+        border: 2px solid black;
+        padding: 5px;
+        background-color: rgb(146, 226, 146);
+        margin: 5px;
+        text-decoration: none;
+        color: #FFFAC0;
+        background: #AB4A9C;
+    }
+}
+
+.content {
+    padding: 15px;
 }
 h1 {
     text-align: center;
