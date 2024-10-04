@@ -1,0 +1,35 @@
+.menu {
+    border: 3px solid black;
+    background-color: rgb(145, 170, 116);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    .menu_link {
+        border: 2px solid black;
+        padding: 5px;
+        background-color: rgb(146, 226, 146);
+        margin: 5px;
+        text-decoration: none;
+    }
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.cardBox {
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    .cardBox_product {
+        border: 3px solid black;
+        width: 250px;
+        margin: 15px;
+        padding: 5px;
+    }
+}
